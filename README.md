@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Haider</h1>
 <h3 align="center">An enthusiastic & passionate Learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" /></p>
 - 🌱 I’m currently learning **THESE**
