@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
 
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" /></p>
 
-
+<p></p>
 <!-- - 🔭 I’m currently working on **t** -->
 
-- 🌱 I’m currently learning **everything.**
+- 🌱 I’m currently learning **THESE**
 
 <!-- - 👯 I’m looking to collaborate on **t**
 
