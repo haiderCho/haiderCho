@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" style="width:50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" style="width:40%">
   </div>
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" style="width:50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" style="width:40%">
   </div>
 </div>
 
