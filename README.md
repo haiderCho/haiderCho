@@ -14,10 +14,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" />
-</p>
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" style="width:100%">
+  </div>
+</div>
 
 <br>
 <!-- - 🔭 I’m currently working on **t** -->
