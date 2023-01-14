@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> </p>
 
 <div class="row">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" style="width:49%">
-    <img src="https://github-readme-stats.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" style="width:50%">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" style="width:49%">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" style="width:50%">
 </div>
 
 <br>
