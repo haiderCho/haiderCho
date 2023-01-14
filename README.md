@@ -1,5 +1,6 @@
-<h1 align="center">Hello! I'm Haider</h1>
-<h3 align="center">A CSE student & an enthusiastic & passionate Learner.</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&pause=1000&color=016EEA&center=true&vCenter=true&width=1000&height=100&lines=Hello!+NAFIZ+here.;An+Undergrad+Student+%24+Developer)](https://github.com/haiderCho)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> </p>
 
@@ -7,10 +8,8 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" style="width:49%">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" style="width:50%">
 </div>
-<br>
 
-<p align="left">
-</p>
+<br>
 
 <h3 align="left">I’m currently learning:</h3>
 <table><tr><td valign="top" width="33%">
@@ -77,4 +76,12 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+
+Current Workspace
+
+[![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows+11&logoColor=white)](https://github.com/haiderCho)
+[![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/haiderCho) 
+[![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%2011th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/haiderCho) 
+[![24GB RAM](https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/haiderCho) 
+![NVIDIA](https://img.shields.io/static/v1?style=flat-square&message=RTX3060&color=222222&logo=NVIDIA&logoColor=76B900&label=)
