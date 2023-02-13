@@ -80,8 +80,8 @@
 
 Current Workspace
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows+11&logoColor=white)](https://github.com/haiderCho)
-[![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/haiderCho) 
-[![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%2011th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/haiderCho) 
-[![24GB RAM](https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/haiderCho) 
+[![Windows 11 PRO](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows+11&logoColor=white)](https://github.com/haiderCho)
+[![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/haiderCho)
+[![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%2011th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/haiderCho)
+[![32GB RAM](https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/haiderCho) 
 ![NVIDIA](https://img.shields.io/static/v1?style=flat-square&message=RTX3060&color=222222&logo=NVIDIA&logoColor=76B900&label=)
