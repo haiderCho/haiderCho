@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> </p>
 
 <div class="row">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&show_icons=true&locale=en&layout=compact" alt="haidercho" style="width:49%">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haidercho&show_icons=true&locale=en" alt="haidercho" style="width:50%">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haidercho&hide_title=true&show_icons=true&locale=en&theme=dracula&" height="175" alt="haidercho" style="width:49%">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&locale=en&theme=dracula&layout=compact" height="175" alt="haidercho" style="width:50%">
 </div>
 
 <br>
@@ -84,3 +84,11 @@ Current Workspace
 [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%2011th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/haiderCho)
 [![32GB RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/haiderCho) 
 ![NVIDIA](https://img.shields.io/static/v1?style=flat-square&message=RTX3060&color=222222&logo=NVIDIA&logoColor=76B900&label=)
+
+
+<!-- <div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+ -->
