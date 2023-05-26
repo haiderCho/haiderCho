@@ -6,7 +6,7 @@
 
 <div class="row">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haidercho&hide_title=true&show_icons=true&locale=en&theme=dracula&" height="175" alt="haidercho" style="width:49%">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&locale=en&theme=dracula&layout=compact" height="175" alt="haidercho" style="width:50%">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&locale=en&theme=dracula&layout=compact" height="175" alt="haidercho" style="width:49%">
 </div>
 
 <br>
