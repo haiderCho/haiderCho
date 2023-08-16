@@ -4,12 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> </p>
 
+<!---
 <div class="row">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haidercho&hide_title=true&show_icons=true&locale=en&theme=dracula&" height="175" alt="haidercho" style="width:49%">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&locale=en&theme=dracula&layout=compact" height="175" alt="haidercho" style="width:49%">
-</div>
+</div> <br>
+--->
 
-<br>
+
 
 <h3 align="left">I’m currently learning:</h3>
 <table><tr><td valign="top" width="33%">
