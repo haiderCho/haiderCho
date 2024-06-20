@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=0e75b6&style=flat" alt="haidercho" /> </p>
   
 <div class="row">
- <img src="https://streak-stats.demolab.com?user=haiderCho&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="234" alt="streak graph">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&langs_count=10&locale=en&theme=dracula&layout=compact" height="234" alt="haidercho"> 
+ <img src="https://streak-stats.demolab.com?user=haiderCho&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="234" alt="streak graph" width="59%">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&langs_count=10&locale=en&theme=dracula&layout=compact" height="234" alt="haidercho" width="39%"> 
 <br>
 
 ### Tech Stack
