@@ -1,4 +1,4 @@
-[![Welcome](https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello!+NAFIZ+here.;An+Undergrad+Student+%24+Developer)](https://github.com/haiderCho)
+[![Welcome](https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello!+NAFIZ+here.;A+Developer+%24+AI+Enthusiast)](https://github.com/haiderCho)
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=202124&style=flat" alt="haidercho" /> 
