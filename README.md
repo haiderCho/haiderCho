@@ -103,6 +103,6 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/4e6166697a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/u/NafizHC/)
-[![NafizHC](https://img.shields.io/badge/NafizHC-00FFFF?style=for-the-badge&logo=eslint&logoColor=black)](https://github.com/haiderCho/Portfolio)
+[![NafizHC](https://img.shields.io/badge/NafizHC-00FFFF?style=for-the-badge&logo=eslint&logoColor=black)](https://haidercho.github.io/Portfolio/)
 
 
