@@ -6,7 +6,7 @@
   
 <div class="row">
 <img src="https://streak-stats.demolab.com?user=haiderCho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="234" alt="streak graph" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&langs_count=10&locale=en&theme=dark&layout=compact" height="234" alt="haidercho" width="38%">
+<img src="https://nhc-github-stats.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&langs_count=10&locale=en&theme=dark&layout=compact" height="234" alt="haidercho" width="38%">
 <br>
 
 ## 🛠️ **Tech Stack**
