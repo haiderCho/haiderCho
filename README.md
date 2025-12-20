@@ -3,9 +3,9 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=haidercho&label=Profile%20views&color=202124&style=flat" alt="haidercho" /> 
 </p>
-  
+
 <div class="row">
-<img src="https://streak-stats.demolab.com?user=haiderCho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="234" alt="streak graph" width="60%">
+<img src="https://nhc-github-streaks.vercel.app?user=haiderCho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="234" alt="streak graph" width="60%">
 <img src="https://nhc-github-stats.vercel.app/api/top-langs?username=haidercho&hide_title=true&show_icons=true&langs_count=10&locale=en&theme=dark&layout=compact" height="234" alt="haidercho" width="38%">
 <br>
 
